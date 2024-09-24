@@ -1,0 +1,3 @@
+Insufficient Data: Lack of enough data to build a robust model can limit the performance of machine learning algorithms.
+Data Quality: Data may contain missing values, outliers, or errors (e.g., typos, incorrect entries).
+Data Privacy: Collecting personal or sensitive data may involve legal and ethical challenges, requiring anonymization or secure storage.
